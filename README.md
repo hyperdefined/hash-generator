@@ -6,9 +6,7 @@ Browse for a file and open it. The hashes will be in the text field.
 ![screenshot1](https://raw.githubusercontent.com/hyperdefined/images/master/github/hash-generator/screenshot1.png)
 ![screenshot2](https://raw.githubusercontent.com/hyperdefined/images/master/github/hash-generator/screenshot2.png)
 # Download
-|Version|
-|---|
-|[1.0](http://viahold.com/3RaM)|
+Head over to the [releases](https://github.com/hyperdefined/hash-generator/releases) to download.
 # To Edit
 You will need [Commons Codec 1.4](https://mvnrepository.com/artifact/commons-codec/commons-codec/1.4) to edit this. Just download this and add it to the build path.
 
